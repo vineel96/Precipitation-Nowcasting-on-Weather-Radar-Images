@@ -31,4 +31,4 @@ Optical flow based extrapolation via U-Net:
     - python unet+resnet_logcosh.py
 
 # Acknowledgment
-This research/project is supported in part by WeatherNews Inc Japan which provided us with their private dataset consisting of weather radat images
+This research/project is supported in part by WeatherNews Inc Japan which provided us with their private dataset consisting of weather radar images
